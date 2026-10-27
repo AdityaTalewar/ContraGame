@@ -1,0 +1,6 @@
+{
+  "name": "Retro Strike",
+  "description": "Retro 8-bit run-and-gun arcade shooter with 2-player local co-op, chiptune audio, boss battles, controller support, and cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

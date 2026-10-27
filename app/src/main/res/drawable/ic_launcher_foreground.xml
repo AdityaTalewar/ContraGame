@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Crossed Laser Rifles -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M24,78 L34,88 L84,38 L80,32 L66,36 L36,66 Z" />
+    <path
+        android:fillColor="#64748B"
+        android:pathData="M84,78 L74,88 L24,38 L28,32 L42,36 L72,66 Z" />
+    <!-- Gun Barrels & Muzzles -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M80,30 L88,22 L86,20 L78,28 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M28,30 L20,22 L22,20 L30,28 Z" />
+    <!-- Commando Red Headband -->
+    <path
+        android:fillColor="#DC2626"
+        android:pathData="M38,42 L70,42 L72,48 L36,48 Z" />
+    <path
+        android:fillColor="#B91C1C"
+        android:pathData="M70,46 L82,54 L86,52 L72,44 Z" />
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M70,48 L80,60 L84,58 L72,47 Z" />
+    <!-- Commando Face & Jaw (Pixel/Arcade style) -->
+    <path
+        android:fillColor="#FED7AA"
+        android:pathData="M40,48 L68,48 L68,64 L62,72 L46,72 L40,64 Z" />
+    <!-- Commando Hair -->
+    <path
+        android:fillColor="#78350F"
+        android:pathData="M40,36 L68,36 L70,42 L38,42 Z" />
+    <!-- Eyes / War Paint -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M44,54 L50,54 L50,56 L44,56 Z M58,54 L64,54 L64,56 L58,56 Z" />
+    <path
+        android:fillColor="#DC2626"
+        android:pathData="M43,58 L49,60 L43,61 Z M65,58 L59,60 L65,61 Z" />
+    <!-- Retro Golden Winged Star Shield at Chest -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,68 L57,75 L65,75 L59,80 L61,87 L54,82 L47,87 L49,80 L43,75 L51,75 Z" />
+    <!-- Glowing Laser Crosshair Target -->
+    <path
+        android:strokeColor="#06B6D4"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M54,28 A26,26 0 1,0 54,80 A26,26 0 1,0 54,28 Z" />
+    <path
+        android:strokeColor="#22D3EE"
+        android:strokeWidth="2"
+        android:pathData="M54,22 L54,32 M54,76 L54,86 M22,54 L32,54 M76,54 L86,54" />
+</vector>
